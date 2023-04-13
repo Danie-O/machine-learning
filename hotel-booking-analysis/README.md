@@ -1,5 +1,4 @@
 ## Exploratory Data Analysis of the Hotel Booking Dataset
-------------------------------------------------------
 
 About the Dataset
 -----------------
